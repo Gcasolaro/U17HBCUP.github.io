@@ -1,0 +1,26 @@
+
+.schedule-item {
+    background-color: #f0f0f0;
+    margin: 10px 0;
+    padding: 10px;
+    border-left: 5px solid #004d40;
+    position: relative;
+}
+
+.time {
+    font-weight: bold;
+    color: #004d40; 
+    padding: 5px 10px;
+    background-color: #fff;
+    border-radius: 50%;
+    position: absolute;
+    top: 10px;
+    left: -20px; 
+}
+
+.schedule-item p {
+    margin-left: 30px; 
+    font-size: 1rem;
+    color: #333;
+}
+
